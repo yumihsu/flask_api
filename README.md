@@ -8,23 +8,25 @@
     - [ ] Azure
 - Using Postman to test the API
 
-
+---
 ## requirement
 see the [requirements.txt](/requirements.txt)
 
+---
+
 ## content
-### Create API
-1. create the CRUD
+- Create API
+    1. create the CRUD
+    2. the point
 
-2. the point
+- Create RESTful API
+    1. create the RESTful CRUD
+    2. the point
 
-### Create RESTful API
-1. create the RESTful CRUD
-2. the point
+- Deploy the API by Heroku
+    1. How to deploy
+    2. demo and test
 
-### Deploy the API by Heroku
-1. How to deploy
-2. demo and test
+-  Test by Postman
 
-### Test by Postman
 
